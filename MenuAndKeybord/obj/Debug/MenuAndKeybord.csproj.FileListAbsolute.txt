@@ -1,0 +1,9 @@
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\bin\Debug\MenuAndKeybord.exe.config
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\bin\Debug\MenuAndKeybord.exe
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\bin\Debug\MenuAndKeybord.pdb
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\obj\Debug\MenuAndKeybord.csprojAssemblyReference.cache
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\obj\Debug\MenuAndKeybord.Form1.resources
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\obj\Debug\MenuAndKeybord.Properties.Resources.resources
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\obj\Debug\MenuAndKeybord.csproj.GenerateResource.cache
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\obj\Debug\MenuAndKeybord.exe
+D:\ПМ-2021\Stas Butov\MenuAndKeybord\MenuAndKeybord\obj\Debug\MenuAndKeybord.pdb
